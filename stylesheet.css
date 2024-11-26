@@ -1,0 +1,31 @@
+body{
+    background-color: #E5E1DA;
+
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.kulso{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.container {
+    padding: 30px;
+    display: inline-block;
+    max-width: max-content;
+    background-image: linear-gradient(to bottom right, #B3C8CF, #F1F0E8);
+    border-radius: 15%;
+    box-shadow: 20px 15px 10px #89A8B2;
+}
+.fenti{
+    font-weight: bold;
+    font-size: larger;
+}
+.lenti{
+    font-weight: bold;
+
+}
+
